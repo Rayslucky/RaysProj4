@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="TypeHierarchyViewPart.qualifiednames" value="false"/>
+	<item key="TypeHierarchyViewPart.orientation" value="3"/>
+	<item key="TypeHierarchyViewPart.linkeditors" value="false"/>
+	<item key="TypeHierarchyViewPart.hierarchyview" value="2"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Jars"/>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_X_ORIGIN" value="391"/>
+			<item key="DIALOG_Y_ORIGIN" value="39"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="1050"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT" value="520"/>
+		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="javadoc">
+		<item key="access" value="private"/>
+		<item key="noindex" value="false"/>
+		<item key="antpath" value="E:\test\project04\javadoc.xml"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="docletpath" value=""/>
+		<item key="javadoc_command_history" value="C:\Program Files\Java\jdk1.8.0_211\bin\javadoc.exe"/>
+		<item key="source" value="1.5"/>
+		<item key="version" value="true"/>
+		<item key="docletname" value=""/>
+		<item key="splitindex" value="true"/>
+		<item key="fromStandard" value="true"/>
+		<item key="notree" value="false"/>
+		<item key="destdir" value="E:\test\project04\doc"/>
+		<item key="openinbrowser" value="false"/>
+		<section name="projects">
+			<section name="project04">
+				<item key="antpath" value="E:\test\project04\javadoc.xml"/>
+				<item key="destdir" value="E:\test\project04\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Servers">
+				<item key="antpath" value="E:\test\Servers\javadoc.xml"/>
+				<item key="destdir" value="E:\test\Servers\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item key="antpath" value="E:\test\RemoteSystemsTempFiles\javadoc.xml"/>
+				<item key="destdir" value="E:\test\RemoteSystemsTempFiles\doc"/>
+				<item key="href" value=""/>
+			</section>
+		</section>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item key="HISTORY_SIZE" value="0"/>
+		<item key="CASE_SENSITIVE" value="false"/>
+		<item key="INCLUDE_MASK" value="11"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_WIDTH" value="616"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="573"/>
+		<item key="DIALOG_X_ORIGIN" value="383"/>
+		<item key="DIALOG_Y_ORIGIN" value="8"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item key="size.y" value="258"/>
+		<item key="size.x" value="355"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

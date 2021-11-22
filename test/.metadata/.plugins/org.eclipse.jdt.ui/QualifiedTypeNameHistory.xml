@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.util.PropertyReader"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.bean.UserBean"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.bean.DropdownlistBean"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.controller.BaseCtl"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.BaseModel"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.bean.BaseBean"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.exception.RecordNotFoundException"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.exception.ApplicationException"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.bean.TimetableBean"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.bean.CollegeBean"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.bean.CourseBean"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.MarksheetModel"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.StudentModel"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.FacultyModel"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.util.DataValidator"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.UserModel"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.RoleModel"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.model.CollegeModel"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.util.DataUtility"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.util.JDBCDataSource"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.util.ServletUtility"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.controller.ORSView"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="in.co.rays.project4.exception.DuplicateRecordException"/>
+</qualifiedTypeNameHistroy>

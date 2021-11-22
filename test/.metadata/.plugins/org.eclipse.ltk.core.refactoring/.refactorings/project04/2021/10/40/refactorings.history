@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;project04/src/main/webapp/jsp/TimetableView.jsp&apos; to &apos;TimeTableView.jsp&apos;" description="Rename resource &apos;TimetableView.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/jsp/TimetableView.jsp" name="TimeTableView.jsp" stamp="1633078366504" updateReferences="true"/>
+</session>
